@@ -14,9 +14,5 @@ MediaPipe (mediapipe)
 
 PyAutoGUI (pyautogui)
 
-Pygame
-
-Tobii SDK or Gaze SDK (for eye-tracking hardware)
-
 NumPy
 
